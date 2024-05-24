@@ -4,7 +4,7 @@ Welcome to the COSC2440 Further Programming Lab Test repository! This project se
 
 ## About the Project ℹ️
 
-This repository contains the Java source code for an individual lab test project. The programming portion took approximately 1.5 hours, including setup and theoretical aspects.
+This repository contains the Java source code for an individual lab test project. The programming portion took approximately 1.5 hours, including setup and excluding theoretical aspects.
 
 ## Getting Started 🚀
 
